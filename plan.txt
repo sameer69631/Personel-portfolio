@@ -1,0 +1,59 @@
+Portfolio Plan
+
+1.Home Page
+Nav bar
+    -Home
+    -Contact
+    -Resume
+
+Introduction
+    -Name Heading
+    -Add Image 
+    -About Myself
+
+Experience
+    -List My Experience
+
+Skills
+    -List My Skills
+
+Projects
+    -List My Skills
+
+Achievements
+    -List My Skills
+
+Footer
+    -Home Contact Resume SocialLinks
+
+2.Contact Us Page
+Nav bar
+    -Home Contact Resume
+
+Contact Me Form
+    -Add Form To Take Details
+
+Social Links
+    -LinkedIn
+    -Instagram
+    -GitHub
+
+Embed Map
+    -My Location In Map
+
+Footer
+    -Home
+    -Contact
+    -Resume
+    -SocialLinks
+
+3.Deployement:making app/webapp public or accessible from everywhere
+
+Development: code is being written
+Staging: pushed to any service: GitHub
+Testing; testing server
+Production: Production server
+
+GitHub pages
+Netlify
+Vercel
